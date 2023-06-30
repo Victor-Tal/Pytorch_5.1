@@ -1,5 +1,5 @@
 #-----------------------------------
-# David Rodriguez Badillo
+# cORDERO CORREA VICTOR HUGO
 # Pytorch 5.1
 #-----------------------------------
 import numpy as np

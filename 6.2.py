@@ -1,5 +1,5 @@
 #------------------------------------
-# Rodriguez Badillo David
+# cORDERO CORREA VICTOR HUGO
 # Versión 6.2
 #------------------------------------
 

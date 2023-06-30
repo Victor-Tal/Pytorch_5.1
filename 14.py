@@ -1,5 +1,5 @@
 #------------------------------------
-# Rodriguez Badillo David
+# CORDERO CORREA VICTOR HUGO
 # Versión 7
 #Ejemplo de red neuronal computacional
 #--------------------------------------
